@@ -7,3 +7,10 @@ Cheat Sheets: Handy reference guides for various vulnerabilities and penetration
 XSS Payloads: A well-curated list of Cross-Site Scripting (XSS) payloads for testing web applications.
 Bug Bounty Tips: Insider tips, resources, and recommendations to make the most of bug bounty programs.
 Tools: Recommendations for tools that enhance the bug bounty hunting process.
+
+<h2> 🚀 Check These Out !! </h2>
+
+* 1 - WriteUps - https://www.bugbountyhunting.com/
+* 2 - Hackerone Reports - https://hackerone.com/hacktivity/overview
+* 3 - Huntr Hacktivity - https://huntr.com/bounties/hacktivity
+* 4 - Updating Soon !!!
